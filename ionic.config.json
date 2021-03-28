@@ -1,0 +1,7 @@
+{
+  "name": "ionic-capacitorHmsAnalyticskit-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
