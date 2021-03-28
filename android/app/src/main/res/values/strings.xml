@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-capacitorHmsAnalyticskit-demo</string>
+    <string name="title_activity_main">ionic-capacitorHmsAnalyticskit-demo</string>
+    <string name="package_name">com.huawei.dtse.hmskits.test</string>
+    <string name="custom_url_scheme">com.huawei.dtse.hmskits.test</string>
+</resources>
